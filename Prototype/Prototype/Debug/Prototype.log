@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\master\desktop\designpatterns\prototype\prototype\source.cpp(10): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\master\desktop\designpatterns\prototype\prototype\game.h(70): warning C4715: 'Prototype::createPlayer': not all control paths return a value
+  Prototype.vcxproj -> C:\Users\master\Desktop\DesignPatterns\Prototype\Debug\Prototype.exe

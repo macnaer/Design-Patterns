@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\master\desktop\designpatterns\fabricmethod\fabricmethod\source.cpp(30): error C3622: 'Gamer': a class declared as 'abstract' cannot be instantiated
+  c:\users\master\desktop\designpatterns\fabricmethod\fabricmethod\game.h(3): note: see declaration of 'Gamer'
